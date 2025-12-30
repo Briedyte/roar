@@ -7,6 +7,7 @@ import vytautasDagilisImage from '../assets/vytautas_dagilis.png'
 import bertaBalsyteImage from '../assets/berta_balsyte.png'
 import dariusJakutisImage from '../assets/darius_jakutis.png'
 import pranasPakalnisImage from '../assets/pranas_pakalnis.png'
+import fredaVarnaiteImage from '../assets/freda_varnaite.png'
 
 const characters = [
   {
@@ -48,7 +49,7 @@ const characters = [
   {
     name: 'Freda Varnaitė',
     realName: 'Emilija',
-    image: milenaMeiluteImage,
+    image: fredaVarnaiteImage,
     description: 'Freda – landi žurnalistė, žinanti visas miesto paskalas. Jos konfrontacinis būdas vieną dieną gali ją įstumti į rimtą pavojų.'
   },
 ]
@@ -203,7 +204,7 @@ function SpeakeasyPage() {
                   <div className="info-section">
                     <h3 className="info-subtitle">Ar reikia kažkaip pasiruošti?</h3>
                     <p className="info-text">
-                    Ne, viskas bus paruošta. Žaidimo atmosfera – „roaring 20's", bet mes patys jau jokio kostiumo susiveikti nebespėsim :D Jei norit, galima pasipuošti kokia nors „roaring 20's" detale.
+                    Ne, viskas bus paruošta. Žaidimo atmosfera – „Roaring 20's", bet kostiumams jau per vėlu :) Jei norit, galima pasipuošti kokia nors „Roaring 20's" detale.
                     </p>
                   </div>
                 </div>
