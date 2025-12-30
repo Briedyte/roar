@@ -36,7 +36,7 @@ const characters = [
   },
   {
     name: 'Pranas Pakalnis',
-    realName: 'Paulius',
+    realName: 'Marius',
     image: pranasPakalnisImage,
     description: 'Pranas yra slidus politikas, suvaidinęs svarbų vaidmenį priimant Prohibicijos įstatymą. Paradoksalu, bet vakarais dažniausiai jį galima rasti bare „Paskutinis užsakymas“.'
   },
