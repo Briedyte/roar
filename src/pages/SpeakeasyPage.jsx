@@ -46,16 +46,10 @@ const characters = [
     description: 'Darius šiuo metu yra karščiausia džiazo scenos žvaigždė. Kiekvieną vakarą „Paskutiniame užsakyme“ jis įkaitina publiką iki pašėlusio siautulio. Pasiruošk prarasti nuovoką, kai pamatysi jį scenoje!'
   },
   {
-    name: 'Greta Glint',
-    realName: 'aiste',
+    name: 'Freda Varnaitė',
+    realName: 'Emilija',
     image: milenaMeiluteImage,
-    description: 'Bankininkė Wall Street, kuri mėto pinigus aplinkui. Ji yra viena turtingiausių moterų mieste ir žino, kaip pasiekti savo tikslus.'
-  },
-  {
-    name: 'Opal Pintaro',
-    realName: 'elena',
-    image: milenaMeiluteImage,
-    description: 'Garsi menininkė, kurios vakarėliai yra laukiniai ir ištvirkę. Jos meno kūriniai yra provokuojantys ir unikalūs.'
+    description: 'Freda – landi žurnalistė, žinanti visas miesto paskalas. Jos konfrontacinis būdas vieną dieną gali ją įstumti į rimtą pavojų.'
   },
 ]
 
